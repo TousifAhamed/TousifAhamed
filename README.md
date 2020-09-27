@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/counter.svg)
+![image title](https://profile-counter.glitch.me/TousifAhamed/count.svg)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TousifAhamed/count.svg" />
