@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=www.example.com" alt="Hits">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/TousifAhamed/count.svg" />
