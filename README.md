@@ -14,9 +14,9 @@
 
 
 - 🔭 I’m currently working on Data Visualizations
-- 🌱 I’m currently learning Machine Learning Nanodegree at Udacity
+- 🌱 I’m currently learning Three JS on Youtube
 - 👯 I’m looking to collaborate on AI, ML or DL Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with AR, VR and 3D Animations
 - 💬 Ask me about Data Visualization
 - 📫 How to reach me: tousifahamed11@gmail.com
 - 😄 Pronouns: Friend, Mentor, Enthusiast
