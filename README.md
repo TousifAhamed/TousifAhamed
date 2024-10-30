@@ -29,7 +29,7 @@
 ### Connect with me:
 
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/TousifAhamed "Github")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/https://www.linkedin.com/in/tousifahamed-nadaf-58220423/ "LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/tousifahamed-nadaf-58220423/ "LinkedIn")
 
 <br />
 
